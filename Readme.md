@@ -36,7 +36,7 @@ The following table lists all available download options:
       <td><b>GUI</b></td>
       <td>
         <ul>
-          <li>🟢<b><a href="[https://github.com/Sovietmember/discordchatexporterfix](https://github.com/Sovietmember/discordchatexporterfix/releases/tag/release)">Stable release</a></b> (<code>DiscordChatExporterRelease.zip</code>)</li>
+          <li>🟢<b><a href="https://github.com/Sovietmember/discordchatexporterfix/releases/tag/release">Stable release</a></b> (<code>DiscordChatExporterRelease.zip</code>)</li>
           <li>🟠 <a href="">CI build</a> (<code>DiscordChatExporter.zip</code>)</li>
         </ul>
       </td>
