@@ -72,8 +72,8 @@ The following table lists all available download options:
 
 ## Screenshots
 
-![channel list](.assets/list.png)
-![rendered output](.assets/output.png)
+![channel list](list.png)
+![rendered output](output.png)
 
 ## Related projects
 
