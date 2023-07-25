@@ -3,7 +3,7 @@
 
 <table>
     <tr>
-        <td width="99999" align="center">Development of this project is entirely funded by the community. Bug Fixed by zdetp</a></b></td>
+        <td width="99999" align="center">Development of this project is entirely funded by the community. Bug Fixed by Soviet</a></b></td>
     </tr>
 </table>
 
@@ -16,7 +16,7 @@ It works with direct messages, group messages, and server channels, and supports
 
 > ❔ If you have questions or issues, **please refer to the [docs](.docs)**.
 
-> 💬 If you want to chat, **add me on discord [zdetp](https://discord.com)**.
+> 💬 If you want to chat, **add me on discord [soviet](https://discord.com)**.
 
 ## Download
 
